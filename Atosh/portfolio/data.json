@@ -1,0 +1,18 @@
+{
+    "about": "Hello! I'm a professional developer with expertise in web technologies. I love creating beautiful and functional websites.",
+    "skills": ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "React"],
+    "projects": [
+        {
+            "title": "Project 1",
+            "description": "A web application built with React.",
+            "image": "project1.jpg",
+            "link": "#"
+        },
+        {
+            "title": "Project 2",
+            "description": "An e-commerce site using PHP and MySQL.",
+            "image": "project2.jpg",
+            "link": "#"
+        }
+    ]
+}
